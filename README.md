@@ -19,3 +19,26 @@
 		RESIDENTE DO EXTERIOR	Não
 			
 ![image](https://github.com/user-attachments/assets/e67f3574-f87d-4049-be27-3b0c571b980b)
+
+			
+			
+			
+		2 INFORMES DO RENDIMENTOS BANCÁRIOS	
+		        PREENCHA COM SEUS DADOS ATUAÍS DE CADA BANCO 	
+			
+		TOTAL	
+		R$ 3.900	
+			
+		BANCO	104 - Caixa Econômica Federal
+		VALOR ATUAL	R$ 1.300
+		ANEXO🖇️	BANCOX.PDF
+		2° Banco	
+		BANCO	184 - Banco Itaú BBA S.A.
+		VALOR ATUAL	R$ 1.300
+		ANEXO🖇️	BANCO2X.PDF
+		3° Banco	
+		BANCO	229 - Banco Cruzeiro do Sul
+		VALOR ATUAL	R$ 1.300
+		ANEXO🖇️	BANCO3X.PDF
+			
+![image](https://github.com/user-attachments/assets/5ed85f92-3f7d-4698-83c1-e1fd9d3d34a9)
