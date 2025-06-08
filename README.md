@@ -42,3 +42,39 @@
 		ANEXO🖇️	BANCO3X.PDF
 			
 ![image](https://github.com/user-attachments/assets/5ed85f92-3f7d-4698-83c1-e1fd9d3d34a9)
+
+							
+							
+							
+		3 NOTAS BANCÁRIAS OU EXTRATO DE HOLERITE 					
+		        SÃO TODOS OS VALORES MÊS A MÊS DE ENTRADA DE RECEITA					
+							
+							
+		ENTRADA				TOTAL	
+		DATA	CATEGORIA	VALOR		FREELANCE	162
+		12/05/2025	FREELANCE	 R$ 120,00 		CNPF	123
+		15/05/2025	FREELANCE	 R$ 30,00 		HOLERITE	2000
+		20/05/2025	FREELANCE	 R$ 12,00 		TOTAL	2.285,00 
+		26/05/2025	CNPF	 R$ 23,00 			
+		05/05/2025	HOLERITE	 R$ 2.000,00 			
+		29/05/2025	CNPF	 R$ 100,00 			
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+![image](https://github.com/user-attachments/assets/fed98132-df23-4261-b855-c9161e5decb0)
+
